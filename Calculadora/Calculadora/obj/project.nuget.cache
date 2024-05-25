@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxaVYfbZnvuq/TAu6Ltje4RTE2IoxRf4WF1DENCLGwzqQYUgfqvQSmDZNgLB1JJHbLU9ZbgMISL+1/kVhzybmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hokma\\OneDrive\\Documentos\\Universidad\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hokma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\hokma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\hokma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\hokma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

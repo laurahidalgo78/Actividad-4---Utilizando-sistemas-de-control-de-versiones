@@ -1,0 +1,15 @@
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\hokma\OneDrive\Documentos\Universidad\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
